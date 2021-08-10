@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Proxy;
+package Proxy;
 
 import android.widget.CheckBox;
 

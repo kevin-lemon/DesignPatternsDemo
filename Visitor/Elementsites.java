@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Visitor;
+package Visitor;
 
 import java.util.ArrayList;
 import java.util.Iterator;

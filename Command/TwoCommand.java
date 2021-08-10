@@ -1,6 +1,6 @@
-package com.pioneer.polaris.polaris.demo.Command;
+package Command;
 
-import com.pioneer.polaris.polaris.demo.Decorator.ConcreteComponent;
+import Decorator.ConcreteComponent;
 
 /**
  * Created by wxk on 2018/5/3.

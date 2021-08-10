@@ -1,6 +1,6 @@
-package com.pioneer.polaris.polaris.demo.Component;
+package Component;
 
-import com.pioneer.polaris.polaris.demo.Decorator.Component;
+import Decorator.Component;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Flyweight;
+package Flyweight;
 
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;

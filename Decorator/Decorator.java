@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Decorator;
+package Decorator;
 
 /**
  * Created by wxk on 2018/5/3.

@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Facade;
+package Facade;
 
 public class SubSys1Impl implements SubSys1{
 

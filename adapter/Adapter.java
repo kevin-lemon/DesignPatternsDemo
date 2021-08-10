@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.adapter;
+package adapter;
 
 /**
  * Created by wxk on 2018/5/3.

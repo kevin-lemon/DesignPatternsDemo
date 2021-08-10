@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Observer;
+package Observer;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Observer;
+package Observer;
 
 /**
  * Created by wxk on 2018/5/2.

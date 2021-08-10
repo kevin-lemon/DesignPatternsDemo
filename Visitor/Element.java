@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Visitor;
+package Visitor;
 
 /**
  * Created by wxk on 2018/5/15.

@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Component;
+package Component;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Socket;
+package Socket;
 
 import java.io.BufferedReader;
 import java.io.IOException;

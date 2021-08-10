@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Flyweight;
+package Flyweight;
 
 /**
  * Created by wxk on 2018/5/15.

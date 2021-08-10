@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Command;
+package Command;
 
 /**
  * Created by wxk on 2018/5/3.

@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Strategy;
+package Strategy;
 
 /**
  * Created by wxk on 2018/5/2.

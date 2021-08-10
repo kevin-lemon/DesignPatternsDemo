@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Clone;
+package Clone;
 
 import android.os.Bundle;
 

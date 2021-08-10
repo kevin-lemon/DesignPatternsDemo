@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Component;
+package Component;
 
 /**
  * Created by wxk on 2018/5/14.

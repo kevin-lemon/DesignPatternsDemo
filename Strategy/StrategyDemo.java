@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Strategy;
+package Strategy;
 
 import java.util.Timer;
 import java.util.TimerTask;

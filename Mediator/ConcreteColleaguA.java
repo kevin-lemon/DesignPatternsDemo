@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Mediator;
+package Mediator;
 
 /**
  * Created by wxk on 2018/5/15.

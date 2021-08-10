@@ -1,4 +1,4 @@
-package com.pioneer.polaris.polaris.demo.Brige;
+package Brige;
 
 /**
  * Created by wxk on 2018/5/14.
