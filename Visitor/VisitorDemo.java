@@ -1,5 +1,8 @@
 package Visitor;
 
+import java.util.Arrays;
+import java.util.HashMap;
+
 /**
  * Created by wxk on 2018/5/15.
  */
@@ -17,6 +20,5 @@ public class VisitorDemo {
         elementsites.addElement(iqiyi);
         Visitor visitor = new Idler();
         elementsites.accept(visitor);
-
     }
 }

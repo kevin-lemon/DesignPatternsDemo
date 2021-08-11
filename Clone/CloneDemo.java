@@ -1,7 +1,5 @@
 package Clone;
 
-import android.os.Bundle;
-
 import java.util.ArrayList;
 
 /**

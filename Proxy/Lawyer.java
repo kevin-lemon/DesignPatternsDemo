@@ -1,6 +1,5 @@
 package Proxy;
 
-import android.widget.CheckBox;
 
 /**
  * Created by wxk on 2018/5/3.
